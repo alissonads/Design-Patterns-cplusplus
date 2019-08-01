@@ -1,0 +1,18 @@
+#pragma once
+
+#include "BlackOlives.h"
+#include "Eggplant.h"
+#include "FreshClams.h"
+#include "FrozenClams.h"
+#include "Garlic.h"
+#include "MarinaraSauce.h"
+#include "MozzarellaCheese.h"
+#include "Mushroom.h"
+#include "Onion.h"
+#include "PlumTomatoSauce.h"
+#include "RedPepper.h"
+#include "ReggionoCheese.h"
+#include "SlicedPepperoni.h"
+#include "Spinach.h"
+#include "ThickCrustDough.h"
+#include "ThinCrustDough.h"
